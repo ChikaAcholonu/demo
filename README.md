@@ -12,3 +12,12 @@
 -Used git remote -v to check if it worked
 
 -Then used git push origin main
+
+## More Notes
+-An easier way is to use the VsCode interface to add a remote 
+
+-Ctrl + Shift + P opens up the search 'Git: Add remote'
+
+-Choose the repo from VsCode "demo-2" choose the local name "origin2"
+
+-Don't forget to sync it with the cloud icon at the bottom
